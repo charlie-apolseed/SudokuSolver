@@ -5,6 +5,9 @@ import java.util.Scanner;
  * Prompts the user for file information, reads in the puzzle (and solution if provided),
  * solves the puzzle using SudokuSolver and checks it against the solution (if applicable).
  *
+ * THIS IS THE MAIN ClASS FOR TESTING THE PROGRAM
+ 
+ *
  * @author Charlie Apolinsky
  * @version 1.1.0 Build 2023.10.13
  */
